@@ -13,11 +13,11 @@ social:
   name: Your Name
   links:
     - https://twitter.com/breuniglab
-  # - https://www.facebook.com/ben.balter
-     - https://www.linkedin.com/in/joshua-breunig-49a69a5a/
-  #  - https://plus.google.com/+BenBalter
-     - https://github.com/JBreunig
-   # - https://keybase.io/benbalter
+    - https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/in/joshua-breunig-49a69a5a/
+    - https://plus.google.com/+BenBalter
+    - https://github.com/JBreunig
+    - https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
