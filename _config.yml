@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: thebreuniglab # your site title
+title: thebreuniglab2 # your site title
 author: Joshua Breunig Ph.D. # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -14,7 +14,7 @@ social:
   links:
     - https://twitter.com/breuniglab
     - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/joshua-breunig-49a69a5a/
+    - https://www.linkedin.com/in/joshua-breunig-49a69a5a
     - https://plus.google.com/+BenBalter
     - https://github.com/JBreunig
     - https://keybase.io/benbalter
